@@ -4,7 +4,7 @@ This mini project is from Scrimba. The main purpose is to practice with React.
 
 ## To Run Project
 
-I a git console use the command: `npm start` or `yarn start`
+Open a git console and use the command: `npm start` or `yarn start`
 
 Here is the Figma scetch of the mini project, of course my project will have my own details and photo:
 <br/>
