@@ -7,5 +7,5 @@ This mini project is from Scrimba. The main purpose is to practice with React.
 I a git console use the command: `npm start` or `yarn start`
 
 Here is a Figma scetch of the mini project:
-<img src="#" alt="figma scetch" />
+<img src="assets.figma.png" alt="figma scetch" />
 
