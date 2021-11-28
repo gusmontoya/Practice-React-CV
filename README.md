@@ -1,6 +1,6 @@
 # Practice React CV
 
-This mini project is from Scrimba. The main purpose is to practice with React.
+This mini project is from Scrimba. The main purpose is to practice React.
 
 ## To Run Project
 
