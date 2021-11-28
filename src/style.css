@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #23252C;
+    color: #FFFFFF;
+    height: 100vh;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.card {
+    border-radius: 10px 10px 10px 10px;
+    background-color: #1A1B21;
+    max-width: 317px;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.profile-pic {
+    /* background: url("./assets/profile.jpg"); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.profile-name {
+    font-size: 1.25rem;
+    margin: 10px 0 0 0;
+}
+
+.profile-role {
+    font-size: .85rem;
+    color: #F3BF99;
+    font-weight: 400;
+    margin: 5px 0 15px 0;
+}
+
+.profile-website {
+    font-size: .4rem;
+    color: #F5F5F5;
+    gap: 10px;
+    font-weight: 400;
+}
+
+.profile-website a {
+    color: #F5F5F5;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    padding: 15px 30px;
+}
+
+.btn-email {
+    padding: 9px 13px 9px 11px;
+    background-color: #FFFFFF;
+    border-radius: 6px;
+    border: 1px solid #D1D5DB;
+    width: 80%;
+}
+
+.btn-email i {
+    margin: 0 10px 0 0;
+    /* font-size: .9rem; */
+}
+
+.btn-email a {
+    color:  #374151;
+    text-decoration: none;
+}
+
+.btn-linkedin {
+    padding: 9px 13px 9px 11px;
+    background-color: #5093E2;
+    color: #FFFFFF;
+    border-radius: 6px;
+    border: none;
+    width: 80%;
+}
+
+.btn-linkedin i {
+    margin: 0 10px 0 0;
+    font-size: 1rem;
+}
+
+.btn-linkedin a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.about-container {
+    margin: 0 35px;
+}
+
+.about-title {
+    font-style: bold;
+    font-size: 16px;
+    padding: 20px 0 5px 0;
+}
+
+.intro-About {
+    font-style: bold;
+    font-size: 10.24px;
+    line-height: 15px;
+}
+
+.interests-container {
+    margin: 0px 35px;
+}
+
+.interests-title {
+    font-style: bold;
+    font-size: 16px;
+    padding: 15px 0 0 0;
+}
+
+.interests-sub {
+    font-style: bold;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 15px 0 8px 0;
+}
+
+.links {
+    list-style-type: none;
+}
+
+.fact {
+    margin: 10px 0;
+    font-size: 14px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    padding: 15px 30px;
+    padding: 10px 35px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+}
+.social-list {
+    list-style-type: none;
+}
+
+.footer ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    color: #918E9B;
+    
+}
+
+.footer--github {
+    font-size: 1.7rem;
+    margin: 0 15px;
+}
+
+.footer--github a {
+    color: #918E9B;
+    text-decoration: none;
+}
+
+.footer--twitter {
+    font-size: 1.7rem;
+    margin: 0 15px;
+}
+
+.footer--twitter a {
+    color: #918E9B;
+    text-decoration: none;
+}
+
+.footer--insta {
+    font-size: 1.7rem;
+    margin: 0 15px;
+}
+
+.footer--insta a {
+    color: #918E9B;
+    text-decoration: none;
+} 
