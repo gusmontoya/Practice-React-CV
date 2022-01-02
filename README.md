@@ -10,6 +10,6 @@ Here is the Figma scetch of the mini project and the final result of my project:
 <br/>
 <hr >   
 <img src="https://github.com/gusmontoya/Practice-React-CV/blob/main/src/assets/Figma.png" alt="figma scetch" display="flex" flex-direction="column" justify-content="space-between" align-items="center" />
-<br />
+
 <img src="https://github.com/gusmontoya/React_Digital_Buisness_Card/blob/main/src/assets/React%20Digital%20Buisness%20Card.png" alt="final result" display="flex" flex-direction="column" justify-content="space-between" align-items="flex-end"/>
 
