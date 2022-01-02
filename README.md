@@ -1,4 +1,4 @@
-# Practice React CV
+# React Digital Business Card
 
 This mini project is from Scrimba. The main purpose is to practice React.
 
