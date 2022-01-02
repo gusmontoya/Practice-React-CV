@@ -1,11 +1,12 @@
 # Practice React CV
 
-This mini project is from Scrimba. The main purpose is to practice with React.
+This mini project is from Scrimba. The main purpose is to practice React.
 
 ## To Run Project
 
-I a git console use the command: `npm start` or `yarn start`
+Open a git console and use the command: `npm start` or `yarn start`
 
-Here is a Figma scetch of the mini project:
-<img src="#" alt="figma scetch" />
+Here is the Figma scetch of the mini project, of course my project will have my own details and photo:
+<br/>
+<img src="https://github.com/gusmontoya/Practice-React-CV/blob/main/src/assets/Figma.png" alt="figma scetch" />
 
