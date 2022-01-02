@@ -9,6 +9,6 @@ Open a git console and use the command: `npm start` or `yarn start`
 Here is the Figma scetch of the mini project and the final result of my project:
 <br/>
 <hr >   
-<img src="https://github.com/gusmontoya/Practice-React-CV/blob/main/src/assets/Figma.png" alt="figma scetch" display="flex" flex-direction="Row" justify-content="space-between" align-items="center" />
-<img src="https://github.com/gusmontoya/React_Digital_Buisness_Card/blob/main/src/assets/React%20Digital%20Buisness%20Card.png" alt="final result" display="flex" flex-direction="Row" justify-content="space-between" align-items="flex-end"/>
+<img src="https://github.com/gusmontoya/Practice-React-CV/blob/main/src/assets/Figma.png" alt="figma scetch" display="flex" justify-content="space-between" align-items="flex-start" />
+<img src="https://github.com/gusmontoya/React_Digital_Buisness_Card/blob/main/src/assets/React%20Digital%20Buisness%20Card.png" alt="final result" display="flex" justify-content="space-between" align-items="flex-start"/>
 
