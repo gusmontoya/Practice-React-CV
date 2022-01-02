@@ -8,10 +8,27 @@ body {
     font-family: 'Inter', sans-serif;
     background-color: #23252C;
     color: #FFFFFF;
-    height: 100vh;
-    /* display: flex;
+    
+    display: flex;
     justify-content: center;
-    align-items: center; */
+    align-items: center;
+    margin:  30px 0px;
+}
+
+.profile-pic-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 20px 0px;
+    margin-top: 5px;
+}
+
+.profile-pic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
 }
 
 .card {
@@ -42,6 +59,12 @@ body {
 .profile-name {
     font-size: 1.25rem;
     margin: 10px 0 0 0;
+}
+
+.profile-website {
+    font-size: 1.85rem;
+    color: #fff;
+    font-weight: 600;
 }
 
 .profile-role {
@@ -163,6 +186,9 @@ footer {
 }
 .social-list {
     list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer ul {
